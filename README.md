@@ -1,4 +1,17 @@
 AI-Powered Worker Productivity Dashboard
+
+Live Application
+
+Frontend Dashboard:
+https://ai-powered-worker-productivity-dashboard-ore4.onrender.com
+
+Backend API:
+https://worker-backend-xszq.onrender.com
+
+GitHub Repository:
+https://github.com/ashutoshcodes1/AI-powered-worker-productivity-dashboard.git
+
+
 1. Project Overview
 
 This project is a production-style full-stack web application that demonstrates how AI-powered CCTV systems can be used to monitor worker activity and compute productivity metrics in a manufacturing factory.

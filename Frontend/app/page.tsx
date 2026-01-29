@@ -13,7 +13,7 @@ import {
   SelectValue,
 } from "@/components/ui/select"
 
-const API_BASE = "http://localhost:3000"
+const API_BASE = "https://worker-backend-xszq.onrender.com"
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json())
 
